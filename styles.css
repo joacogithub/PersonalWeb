@@ -1,0 +1,42 @@
+img{
+    margin-left: 38.5%;
+    border-radius: 50%;
+}
+
+img:hover{
+    transform: scale(1.3);
+    border-style:dotted;
+}
+
+.tabla{
+    background-color: aqua;
+}
+
+.links{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: red;
+}
+
+.titulos{
+    text-align: center;
+    border-radius: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-width: 2px;
+    border-color: rgb(172, 5, 5);
+    border-style: double;
+    
+}
+
+#identified {
+    color: rgba(15, 15, 15, 0.904);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 200;
+}
+
+#nombre:hover {
+    background-color:darkorange;
+    color:indigo;
+    font-style: oblique;
+    font-feature-settings: "abvf";
+}
+
